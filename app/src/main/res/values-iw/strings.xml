@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidLayout</string>
+    <string name="black">שחור</string>
+    <string name="blue">כחול</string>
+    <string name="cyan">תכלת</string>
+    <string name="green">ירוק</string>
+    <string name="magneta">סגול</string>
+    <string name="red">אדום</string>
+    <string name="yellow">צהוב</string>
+</resources>
